@@ -5,6 +5,8 @@ function App() {
   return (
     <div className='App'>
       <h1>헬로우</h1>
+      <h1>헬로우</h1>
+      <h1>헬로우</h1>
       <p>
         Ipsum laborum in labore aute proident culpa aliqua est non exercitation
         consectetur. Eu fugiat in cillum amet quis magna nulla ipsum occaecat
